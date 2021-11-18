@@ -18,6 +18,7 @@ Where:
 
     *Departmental stores
     *Medicals.
+    *Shops etc..
 
 When:
 
