@@ -86,16 +86,17 @@ How:
 
 HIGH LEVEL REQUIREMENTS:-
 
-|ID|Description|
-|---|------|
-|HLR_1|This project help in store keeper fast billing.|
-|HLR_2|To collect and maintain the data of customers for purchased items.|
+|ID|Description|Status|
+|---|------|------|
+|HLR_1|customer Information Portal|Implemented|
+|HLR_2|Products List area|Implemented|
+|HLR_3|Fully Automated Tool|Future|
 
 LOW LEVEL PRQUIREMENTS:-
 
-|ID|Description|
-|--|------|
-|LLR_1|Collects the record from the customers for purchased product and provides the invoice bill.|
-|LLR_2|Display all the customer and products details.|
-|LLR_3|Display all the products that are ordered.|
+|ID|Description|Status|
+|--|------|------|
+|LLR_1|Invoice Area|Implemented|
+|LLR_2|History Transactions Portal|Implemented|
+
 
