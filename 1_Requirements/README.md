@@ -1,8 +1,11 @@
 INTRODUCTION:-
 
-         This project is about Customer Billing System.This project helps
-         the shopkeeper to track the customers information and their
-         product details.
+      Customer Billing System Project is a simple console application designed to demonstrate the 
+        practical use of C programming language and its features as wells as to generate an application
+        which can be used in any departmental store, shops, cafes etc. for billing to the customer.
+      You can use this application to keep the records such as name, address, mobile number, paid amount,
+        due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, 
+        you can add and edit the account at any time.
 
 FEATURES OF CUSTOMER BILLING SYSTEM:-
 
@@ -28,12 +31,12 @@ IDENTIFYING THE REQUIREMENTS:-
          Languages Used: C Language
          Hardware CPU configuration
 
-   INTEL processors:
+   Intel processors:-
    
          RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
          
          
-   STATE OF ART     
+   STATE OF ART:-     
          
                             PROBLEM OF EXISTING SYSTEM
                             
@@ -97,7 +100,7 @@ IDENTIFYING THE REQUIREMENTS:-
            no errors. Moreover storing and retrieving of information is easy. So
            work can be done speedily and in time.
 
-SWOT ANALYSIS:
+SWOT ANALYSIS:-
 
 Strength:
 
@@ -117,7 +120,7 @@ Threads:
       By using this automation process, sometimes system might get corrupt.
       Provide false Information about the Customer.
 
-4W'S AND 1H
+4W'S AND 1H:-
 
 Why:
 
