@@ -121,7 +121,6 @@ Threads:
 
 Why:
 
-
     * This project will help the store keeper in fast billing
     * This project enable store keeper to maintain a great database of all
      customers visited and purchase product from store.
@@ -163,5 +162,3 @@ LOW LEVEL PRQUIREMENTS:-
 |--|------|------|
 |LLR_1|Invoice Area|Implemented|
 |LLR_2|History Transactions Portal|Implemented|
-
-
