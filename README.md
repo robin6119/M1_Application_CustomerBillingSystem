@@ -12,3 +12,7 @@
 |CPPCHECK|
 |---|
 |[![Code Quality - Static Code - Cppcheck](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/cppcheck.yml)|
+
+|GITINSPECTOR BADGE|
+|---|
+|[![Contribution Check - Git Inspector](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/gitinspector.yml)|
