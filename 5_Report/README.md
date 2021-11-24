@@ -194,7 +194,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
 ## TESTPLAN
 
-## TABLE NO:HIGH LEVEL TEST PLAN
+## TABLE NO HIGH LEVEL TEST PLAN
 
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 |H_02|Check whether entered product is displayed correctly or not|Enter productID Number|Product is displayed|Product is displayed|Scenario Based|
 |H_03|Check whether entered productID is correct|ProductID|Display product name|Display product name|Boundary Based|
 
-## TABLE NO:LOW LEVEL TEST PLAN
+## TABLE NO LOW LEVEL TEST PLAN
 
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
 |---|---|---|---|---|---|
