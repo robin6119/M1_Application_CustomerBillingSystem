@@ -25,7 +25,7 @@
 |---|
 |[![Linux C/C++ CI](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/Linux_c-cpp.yml)|
 
-Customer Billing System:-
+# Customer Billing System:-
 
       Customer Billing System Project is a simple console application designed to demonstrate the 
         practical use of C programming language and its features as wells as to generate an application
@@ -33,3 +33,15 @@ Customer Billing System:-
       You can use this application to keep the records such as name, address, mobile number, paid amount,
         due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, 
         you can add and edit the account at any time.
+        
+        
+# FOLDER STRUCTURE
+        
+|Folder|Description|
+|---|---|
+|1_Requirements|Detailed documentation of requirements and research|
+|2_Architecture|Structural and Behavioural diagrams|
+|3_Implementation|source codes and test cases|
+|4_TestPlanAndOutput|Expected and Actual Outputs|
+|5_Report|Report of the project|
+|6_ImagesAndVideos|Image and video of output execution|
