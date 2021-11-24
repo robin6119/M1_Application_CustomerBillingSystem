@@ -35,7 +35,7 @@
         you can add and edit the account at any time.
         
         
-# FOLDER STRUCTURE
+ FOLDER STRUCTURE
         
 |Folder|Description|
 |---|---|
