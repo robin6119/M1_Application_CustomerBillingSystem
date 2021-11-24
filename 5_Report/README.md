@@ -131,14 +131,14 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
   *Add and maintain customer details.
   *Add and maintain description of new products
   *Add and maintain new entered category of products.
-## Where:
+## Where
 
   `*Departmental stores
    *Medicals.
    *Shops etc..`
-## When:
-   * While Billing the products in shops.
-   *Billing in medicals etc
+## When
+    * While Billing the products in shops.
+    *Billing in medicals etc
 
  How:
 
@@ -152,7 +152,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 |HLR_2|Products List area	Implemented|
 |HLR_3|Fully Automated Tool	Future|
 
-## LOW LEVEL PRQUIREMENTS:-
+## LOW LEVEL PRQUIREMENTS
 
 |ID|Description	Status|
 |---|---|
@@ -194,7 +194,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
 ## TESTPLAN
 
-## TABLE NO:HIGH LEVEL TEST PLAN:
+## TABLE NO:HIGH LEVEL TEST PLAN
 
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
 |---|---|---|---|---|---|
