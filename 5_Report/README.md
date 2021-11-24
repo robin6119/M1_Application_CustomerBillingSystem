@@ -203,8 +203,8 @@ This Web based application automate the process of Ordering and billing of depar
 
 ## TABLE NO:LOW LEVEL TEST PLAN:
 
-Test ID	Description	Exp I/P	Exp O/P	Actual O/P	Type of Test
-L_01	To check each product must show its original cost	ProductID	Product displayed with cost price	Product displayed with cost price	Requirement Based
+|Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
+|L_01|To check each product must show its original cost|ProductID	Product displayed with cost price	Product displayed with cost price	Requirement Based
 L_02	To check the product entered without quantity	ProductID and quantity	Display Product and quantity	Display Product and quantity	Scenario Based
 L_03	To check when quantity is given immediately it must multiply with cost price	Product ID and quantity	Multiplied price	Multiplied price	Boundary based
 test	Contains unit testing files
