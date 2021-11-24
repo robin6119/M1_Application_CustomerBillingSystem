@@ -17,6 +17,10 @@
 |---|
 |[![Contribution Check - Git Inspector](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/gitinspector.yml)|
 
+|WINDOWS C/C++ BADGE|
+|---|
+|[![Windows C/C++ CI](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/robin6119/M1_Application_CustomerBillingSystem/actions/workflows/windows_c-cpp.yml)|
+
 Customer Billing System:-
 
       Customer Billing System Project is a simple console application designed to demonstrate the 
