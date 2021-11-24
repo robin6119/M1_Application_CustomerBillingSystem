@@ -119,11 +119,11 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
  Why:
 
-*This project will help the store keeper in fast billing
-*This project enable store keeper to maintain a great database of all
- customers visited and purchase product from store.
-*Project will enable to see report regarding product and category.
-*Easy to maintain in future prospect.
+   This project will help the store keeper in fast billing
+   This project enable store keeper to maintain a great database of all
+      customers visited and purchase product from store.
+   Project will enable to see report regarding product and category.
+   Easy to maintain in future prospect.
 
  What:
 
@@ -181,11 +181,11 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
  Instructions to execute
 
-`* Clone my repository
-* Go to 3_Implementation folder
-* Make sure your system meets all software and hardware requirements
-* Run "make run" command in terminal for main code execution
-* Run "make run_test" command in terminal for test code execution`
+  Clone my repository
+  Go to 3_Implementation folder
+  Make sure your system meets all software and hardware requirements
+  Run "make run" command in terminal for main code execution
+  Run "make run_test" command in terminal for test code execution`
 
 |Folder|Description|
 |---|---|
