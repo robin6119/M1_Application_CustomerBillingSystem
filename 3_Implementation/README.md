@@ -12,7 +12,6 @@ Instructions to execute
 
  5.Run "make run_test" command in terminal for test code execution
 
-
 |Folder|	Description|
 |-----| --------------|
 |inc|	Contains header files|
