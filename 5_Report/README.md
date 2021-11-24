@@ -9,7 +9,7 @@
     due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, 
     you can add and edit the account at any time.
 
- ## FEATURES OF CUSTOMER BILLING SYSTEM:-
+ ## FEATURES OF CUSTOMER BILLING SYSTEM
 
  The Customer Billing System has :
 
@@ -36,7 +36,7 @@ Intel processors
 
      RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
      
- ## STATE OF ART:-
+ ## STATE OF ART
 
     PROBLEM OF EXISTING SYSTEM
                         
@@ -98,7 +98,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
        no errors. Moreover storing and retrieving of information is easy. So
        work can be done speedily and in time.
        
- ## SWOT ANALYSIS:-
+ ## SWOT ANALYSIS
 
  Strength:
 
@@ -202,7 +202,7 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 |H_02|Check whether entered product is displayed correctly or not|Enter productID Number|Product is displayed|Product is displayed|Scenario Based|
 |H_03|Check whether entered productID is correct|ProductID|Display product name|Display product name|Boundary Based|
 
-## TABLE NO:LOW LEVEL TEST PLAN:
+## TABLE NO:LOW LEVEL TEST PLAN
 
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
 |---|---|---|---|---|---|
