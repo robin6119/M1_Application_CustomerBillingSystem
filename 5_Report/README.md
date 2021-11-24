@@ -12,7 +12,7 @@
  ## FEATURES OF CUSTOMER BILLING SYSTEM:-
 
  The Customer Billing System has :
- 
+
    * Add and maintain records of available products.
    * Add and maintain customer details.
    * Add and maintain description of new products.
@@ -22,9 +22,9 @@
    * Provides a convenient solution of billing pattern.
    * Make an easy to use environment for users and customers.
 
-## IDENTIFYING THE REQUIREMENTS:-
+## IDENTIFYING THE REQUIREMENTS
 
-## Technologies and Tools Used:
+## Technologies and Tools Used
 
      Web Technology: Chrome
      Development Tool: Github Website
@@ -32,7 +32,7 @@
      Web browser: Google Chrome Latest
      Languages Used: C Language
      Hardware CPU configuration
-Intel processors:-
+Intel processors
 
      RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
      
