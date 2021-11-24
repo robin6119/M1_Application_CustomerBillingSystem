@@ -1,6 +1,6 @@
 # REPORT
 
-# CUSTOMER BILLING SYSTEM
+ ## CUSTOMER BILLING SYSTEM
 
              Customer Billing System Project is a simple console application designed to demonstrate the 
     practical use of C programming language and its features as wells as to generate an application
@@ -9,9 +9,9 @@
     due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, 
     you can add and edit the account at any time.
 
-## FEATURES OF CUSTOMER BILLING SYSTEM:-
+ ## FEATURES OF CUSTOMER BILLING SYSTEM:-
 
-## The Customer Billing System has :
+ The Customer Billing System has :
 
 * Add and maintain records of available products.
 * Add and maintain customer details.
@@ -32,13 +32,13 @@
      Web browser: Google Chrome Latest
      Languages Used: C Language
      Hardware CPU configuration
-## Intel processors:-
+Intel processors:-
 
      RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
      
-# STATE OF ART:-
+ ## STATE OF ART:-
 
-   ## PROBLEM OF EXISTING SYSTEM
+    PROBLEM OF EXISTING SYSTEM
                         
                         
      1. Inability of modification of data: The managing of huge data
@@ -67,7 +67,7 @@
        not support strategic competitive advantages.
 
 
-  ## CHARACTERSTIC OF THE PROPOSED SYSTEM
+   CHARACTERSTIC OF THE PROPOSED SYSTEM
          
          
     1. Easiness in modification of data: The proposed system provides
@@ -99,33 +99,34 @@
     7. Computer operator control: Computer operator control will be there
        no errors. Moreover storing and retrieving of information is easy. So
        work can be done speedily and in time.
-# SWOT ANALYSIS:-
+       
+ ## SWOT ANALYSIS:-
 
-## Strength:
+ Strength:
 
 `It is an automate application method ,so It will reduce the Human power.`
-## Weakness:
+ Weakness:
 
 `Though it is an Automated process, it is not fully automated.`
-## Opportunities:
+ Opportunities:
 
  `It will Increase the company efficiency.
  Requires less man power in IShops etc...`
-## Threads:
+ Threads:
 
   `By using this automation process, sometimes system might get corrupt.
   Provide false Information about the Customer.`
   
-# 4W'S AND 1H:-
+ 4W'S AND 1H:-
 
-## Why:
+ Why:
 
-`* This project will help the store keeper in fast billing
+* This project will help the store keeper in fast billing
 * This project enable store keeper to maintain a great database of all
  customers visited and purchase product from store.
 * Project will enable to see report regarding product and category.
-* Easy to maintain in future prospect.`
-## What:
+* Easy to maintain in future prospect.
+ What:
 
 `* Add and maintain records of available products.
 * Add and maintain customer details.
@@ -140,11 +141,11 @@
 `* While Billing the products in shops.
 * Billing in medicals etc`
 
-## How:
+ How:
 
 `This Web based application automate the process of Ordering and billing of departmental store.`
 
-# HIGH LEVEL REQUIREMENTS:-
+ HIGH LEVEL REQUIREMENTS:-
 
 |ID|Description	Status|
 |---|---|
@@ -152,34 +153,34 @@
 |HLR_2|Products List area	Implemented|
 |HLR_3|Fully Automated Tool	Future|
 
-# LOW LEVEL PRQUIREMENTS:-
+## LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description	Status|
 |---|---|
 |LLR_1|Invoice Area	Implemented|
 |LLR_2|History Transactions Portal	Implemented|
 
-# DESIGN DIAGRAMS
+## DESIGN DIAGRAMS
 
-## Behavioural1
+ Behavioural1
 
 ![Behavioural1](https://user-images.githubusercontent.com/94118694/142579077-0264e97c-89a3-49a3-b078-7169a8f921b4.jpeg)
 
-# Behavioural2
+ Behavioural2
 
 ![Behavioural2](https://user-images.githubusercontent.com/94118694/142579143-10f3593f-66c6-4fe5-a442-39f0465f2da3.jpeg)
 
-# Structural1
+ Structural1
 
 ![Structural](https://user-images.githubusercontent.com/94118694/142579502-1980cf57-5091-4646-95ca-473fdc9e89b9.jpeg)
 
-# Structural2
+ Structural2
 
 ![Structure2](https://user-images.githubusercontent.com/94118694/142579515-a33a6230-65ef-439c-ac91-d36c3e0d8350.jpeg)
 
-# IMPLEMENTATION
+## IMPLEMENTATION
 
-## Instructions to execute
+ Instructions to execute
 
 `* Clone my repository
 * Go to 3_Implementation folder
@@ -192,9 +193,7 @@
 |inc|Contains header files|
 |src|Contains additional source file for compilation|
 
-# TESTPLAN
-
-## TEST PLAN:
+## TESTPLAN
 
 ## TABLE NO:HIGH LEVEL TEST PLAN:
 
