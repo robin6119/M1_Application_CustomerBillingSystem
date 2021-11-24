@@ -1,7 +1,7 @@
 # Introduction
 This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
 
-# Instructions to execute
+Instructions to execute
 - Clone my repository
 - Go to 3_Implementation folder
 - Make sure your system meets all software and hardware requirements
