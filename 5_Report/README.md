@@ -103,44 +103,46 @@
 
 ## Strength:
 
-It is an automate application method ,so It will reduce the Human power.
+`It is an automate application method ,so It will reduce the Human power.`
 ## Weakness:
 
-Though it is an Automated process, it is not fully automated.
+`Though it is an Automated process, it is not fully automated.`
 ## Opportunities:
 
- It will Increase the company efficiency.
- Requires less man power in IShops etc...
-Threads:
+ `It will Increase the company efficiency.
+ Requires less man power in IShops etc...`
+## Threads:
 
-  By using this automation process, sometimes system might get corrupt.
-  Provide false Information about the Customer.
-4W'S AND 1H:-
+  `By using this automation process, sometimes system might get corrupt.
+  Provide false Information about the Customer.`
+  
+# 4W'S AND 1H:-
 
 ## Why:
 
-* This project will help the store keeper in fast billing
+`* This project will help the store keeper in fast billing
 * This project enable store keeper to maintain a great database of all
  customers visited and purchase product from store.
 * Project will enable to see report regarding product and category.
-* Easy to maintain in future prospect.
+* Easy to maintain in future prospect.`
 ## What:
 
-* Add and maintain records of available products.
+`* Add and maintain records of available products.
 * Add and maintain customer details.
 * Add and maintain description of new products.
-* Add and maintain new entered category of products.
+* Add and maintain new entered category of products.`
 ## Where:
 
-*Departmental stores
-*Medicals.
-*Shops etc..
+`* Departmental stores
+* Medicals.
+* Shops etc..`
 ## When:
-While Billing the products.
+`* While Billing the products in shops.
+* Billing in medicals etc`
 
 ## How:
 
-This Web based application automate the process of Ordering and billing of departmental store.
+`This Web based application automate the process of Ordering and billing of departmental store.`
 
 # HIGH LEVEL REQUIREMENTS:-
 
@@ -153,6 +155,7 @@ This Web based application automate the process of Ordering and billing of depar
 # LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description	Status|
+|---|---|
 |LLR_1|Invoice Area	Implemented|
 |LLR_2|History Transactions Portal	Implemented|
 
@@ -178,11 +181,11 @@ This Web based application automate the process of Ordering and billing of depar
 
 ## Instructions to execute
 
-* Clone my repository
+`* Clone my repository
 * Go to 3_Implementation folder
 * Make sure your system meets all software and hardware requirements
 * Run "make run" command in terminal for main code execution
-* Run "make run_test" command in terminal for test code execution
+* Run "make run_test" command in terminal for test code execution`
 
 |Folder|Description|
 |---|---|
@@ -204,7 +207,7 @@ This Web based application automate the process of Ordering and billing of depar
 ## TABLE NO:LOW LEVEL TEST PLAN:
 
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type of Test|
-|L_01|To check each product must show its original cost|ProductID	Product displayed with cost price	Product displayed with cost price	Requirement Based
-L_02	To check the product entered without quantity	ProductID and quantity	Display Product and quantity	Display Product and quantity	Scenario Based
-L_03	To check when quantity is given immediately it must multiply with cost price	Product ID and quantity	Multiplied price	Multiplied price	Boundary based
-test	Contains unit testing files
+|---|---|---|---|---|---|
+|L_01|To check each product must show its original cost|ProductID|Product displayed with cost price|Product displayed with cost price|Requirement Based|
+|L_02|To check the product entered without quantity|ProductID and quantity|Display Product and quantity|Display Product and quantity|Scenario Based|
+|L_03|To check when quantity is given immediately it must multiply with cost price|Product ID and quantity|Multiplied priceand output|Multiplied price|Boundary based|
