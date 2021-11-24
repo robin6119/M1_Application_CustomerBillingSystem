@@ -127,18 +127,18 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
  What:
 
-*Add and maintain records of available products.
-*Add and maintain customer details.
-*Add and maintain description of new products
-*Add and maintain new entered category of products.
+  *Add and maintain records of available products.
+  *Add and maintain customer details.
+  *Add and maintain description of new products
+  *Add and maintain new entered category of products.
 ## Where:
 
-`*Departmental stores
-*Medicals.
-*Shops etc..`
+  `*Departmental stores
+   *Medicals.
+   *Shops etc..`
 ## When:
-* While Billing the products in shops.
-*Billing in medicals etc
+   * While Billing the products in shops.
+   *Billing in medicals etc
 
  How:
 
