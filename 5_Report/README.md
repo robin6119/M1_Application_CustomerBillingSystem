@@ -202,7 +202,7 @@
 |---|---|---|---|---|---|
 |H_01|Check and verify all the product Price is entered or not|Enter the selected productID number|Price of the product is displayed|price of the product is displayed|Requirement Based|
 |H_02|Check whether entered product is displayed correctly or not|Enter productID Number|Product is displayed|Product is displayed|Scenario Based|
-|H_03|Check whether entered productID is correct ProductID|Display product name|Display product name|Boundary Based|
+|H_03|Check whether entered productID is correct|ProductID|Display product name|Display product name|Boundary Based|
 
 ## TABLE NO:LOW LEVEL TEST PLAN:
 
