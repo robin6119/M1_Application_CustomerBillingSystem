@@ -119,25 +119,26 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
  Why:
 
-* This project will help the store keeper in fast billing
-* This project enable store keeper to maintain a great database of all
+*This project will help the store keeper in fast billing
+*This project enable store keeper to maintain a great database of all
  customers visited and purchase product from store.
-* Project will enable to see report regarding product and category.
-* Easy to maintain in future prospect.
+*Project will enable to see report regarding product and category.
+*Easy to maintain in future prospect.
+
  What:
 
-`* Add and maintain records of available products.
-* Add and maintain customer details.
-* Add and maintain description of new products.
-* Add and maintain new entered category of products.`
+*Add and maintain records of available products.
+*Add and maintain customer details.
+*Add and maintain description of new products
+*Add and maintain new entered category of products.
 ## Where:
 
-`* Departmental stores
-* Medicals.
-* Shops etc..`
+`*Departmental stores
+*Medicals.
+*Shops etc..`
 ## When:
-`* While Billing the products in shops.
-* Billing in medicals etc`
+* While Billing the products in shops.
+*Billing in medicals etc
 
  How:
 
