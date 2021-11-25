@@ -3,9 +3,9 @@
  ## CUSTOMER BILLING SYSTEM
 
              Customer Billing System Project is a simple console application designed to demonstrate the 
-    practical use of C programming language and its features as wells as to generate an application
-    which can be used in any departmental store, shops, cafes etc. for billing to the customer.
-  You can use this application to keep the records such as name, address, mobile number, paid amount,
+       practical use of C programming language and its features as wells as to generate an application
+       which can be used in any departmental store, shops, cafes etc. for billing to the customer.
+       You can use this application to keep the records such as name, address, mobile number, paid amount,
     due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, 
     you can add and edit the account at any time.
 
@@ -103,13 +103,16 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
  Strength:
 
 `It is an automate application method ,so It will reduce the Human power.`
+
  Weakness:
 
 `Though it is an Automated process, it is not fully automated.`
+
  Opportunities:
 
  `It will Increase the company efficiency.
  Requires less man power in IShops etc...`
+ 
  Threads:
 
   `By using this automation process, sometimes system might get corrupt.
