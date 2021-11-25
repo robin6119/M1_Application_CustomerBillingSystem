@@ -31,9 +31,10 @@
      Web Server: IIS
      Web browser: Google Chrome Latest
      Languages Used: C Language
-     Hardware CPU configuration
-Intel processors
-
+     
+     Hardware CPU configuration:
+     
+     Intel processor
      RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
      
  ## STATE OF ART
