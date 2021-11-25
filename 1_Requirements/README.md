@@ -163,5 +163,5 @@ LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description|Status|
 |--|------|------|
-|LLR_1|Invoice Area|Implemented|
-|LLR_2|History Transactions Portal|Implemented|
+|HLR_1_LLR_1|Invoice Area|Implemented|
+|HLR_2_LLR_2|History Transactions Portal|Implemented|
