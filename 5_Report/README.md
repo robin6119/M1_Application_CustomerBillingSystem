@@ -39,7 +39,7 @@
      
  ## STATE OF ART
 
-    PROBLEM OF EXISTING SYSTEM
+   PROBLEM OF EXISTING SYSTEM
                         
                         
      1.Inability of modification of data: The managing of huge data
@@ -150,18 +150,18 @@ CHARACTERSTIC OF THE PROPOSED SYSTEM
 
  HIGH LEVEL REQUIREMENTS:-
 
-|ID|Description	Status|
-|---|---|
-|HLR_1|customer Information Portal	Implemented|
-|HLR_2|Products List area	Implemented|
-|HLR_3|Fully Automated Tool	Future|
+|ID|Description|Status|
+|---|---|---|
+|HLR_1|customer Information Portal|Implemented|
+|HLR_2|Products List area|Implemented|
+|HLR_3|Fully Automated Tool|Future|
 
 ## LOW LEVEL PRQUIREMENTS
 
-|ID|Description	Status|
-|---|---|
-|LLR_1|Invoice Area	Implemented|
-|LLR_2|History Transactions Portal	Implemented|
+|ID|Description|Status|
+|---|---|---|
+|LLR_1|Invoice Area|Implemented|
+|LLR_2|History Transactions Portal|Implemented|
 
 ## DESIGN DIAGRAMS
 
